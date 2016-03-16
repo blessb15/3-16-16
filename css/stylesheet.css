@@ -1,0 +1,14 @@
+.top {
+  text-align: center;
+  color: #fb95f6;
+
+}
+
+.intro {
+  font-style: italic;
+  font-size: 30px;
+}
+
+.important {
+  color: red;
+}
