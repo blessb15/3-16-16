@@ -19,5 +19,12 @@ margin-top:10px; line-height:225px;
 }
 
 body {
-  background-color: red;
+  background-color: #64ccff;
+}
+
+.sidebar {
+  width: 20%;
+  background-color: #fbfbfb;
+  padding: 20px;
+  border: 10px solid red;
 }
