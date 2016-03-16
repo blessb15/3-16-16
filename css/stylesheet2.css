@@ -13,3 +13,16 @@ img.intro {
   text-align: center;
   border-radius: 15px;
 }
+
+.intro {
+  color:#2be600;
+}
+
+div {
+  color: #e66800;
+}
+
+.wordz {
+  color: green;
+  font-weight: bold;
+}
