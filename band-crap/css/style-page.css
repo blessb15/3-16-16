@@ -1,0 +1,23 @@
+.head {
+  text-align: center;
+}
+
+p.right {
+  float:right
+}
+
+p.left {
+  float: left;
+}
+
+img {
+  border-radius: 50px;
+}
+
+br.br1 {
+margin-top:10px; line-height:225px;
+}
+
+body {
+  background-color: red;
+}
