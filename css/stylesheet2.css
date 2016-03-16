@@ -1,0 +1,15 @@
+h2.intro {
+  text-align: center;
+  font-style: italic;
+  font-family: Georgia;
+  color: #4d3a00;
+}
+
+p.intro {
+  font-size: 25px;
+}
+
+img.intro {
+  text-align: center;
+  border-radius: 15px;
+}
